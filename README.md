@@ -105,7 +105,7 @@ Modela os principais componentes do sistema e suas interações.
 ### 🖥️ Diagrama de Implantação
 Descreve a arquitetura física do sistema e a distribuição dos componentes na infraestrutura.
 
-<img width="600px" src="imagens/diagrama-de-implantação.png" alt="Diagrama de Implantação"/>
+<img width="600px" src="imagens/diagrama-de-implantacao.png" alt="Diagrama de Implantação"/>
 
 ---
 
