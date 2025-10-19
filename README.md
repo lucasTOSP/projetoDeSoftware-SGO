@@ -77,7 +77,7 @@ O **Sistema de Gestão das Olimpíadas (SGO)** tem como objetivo permitir o gere
 ### 🎯 Diagrama de Caso de Uso
 Representa as interações entre os atores (Administrador, Atleta, Organizador) e o sistema.
 
-<img width="600px" src="imagens/diagrama-de-caso-de-uso.png" alt="Diagrama de Caso de Uso"/>
+<img width="600px" src="imagens/diagrama-de-casos-de-uso.png" alt="Diagrama de Caso de Uso"/>
 
 ---
 
